@@ -1,12 +1,10 @@
-# 📊 Future Interns – Task 1: Sales Dashboard using Power BI  
+# 📊 Sales Dashboard using Power BI  
 
 A professional sales performance dashboard built using Power BI to analyze sales data and generate meaningful business insights.
 
 ## 📌 Project Description  
 This project focuses on building an interactive Power BI dashboard using a structured CSV dataset.  
 The dashboard helps visualize key sales metrics and trends to support data-driven decision making.  
-
-The task was completed as part of the Future Interns – Data Science & Analytics Internship.  
 
 ---
 
@@ -40,8 +38,8 @@ The dashboard is clean, easy to understand, and visually professional.
 
 ## 📂 Project Structure  
 ```
-Future_Interns_Task1_PowerBI_Dashboard/
-│── Future_Interns_Task1_Sales_Dashboard.pbix
+PowerBI_Dashboard/
+│── Sales_Dashboard.pbix
 │── ecommerce_sales.csv
 │── README.md
 ```
@@ -62,4 +60,4 @@ This project strengthened my understanding of:
 - Dashboard design  
 - Power BI fundamentals  
 
-✅ Task successfully completed as per internship guidelines  
+✅ Task successfully completed. 
